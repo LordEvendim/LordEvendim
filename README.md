@@ -22,7 +22,7 @@ AI Engineer & M.S. Machine Learning student working on agentic systems.
 * 2nd Runner Up - TRON Grand Hackathon 2022
 
 **📈 Quant Contests**
-* **Jane Street Real-Time Market Data Forecasting (2024):** 362nd/3757 (Top 10% on Public Leaderboard)
+* **Jane Street Real-Time Market Data Forecasting (2024):** Top 10%
 * **Hull Tactical Market Prediction Challenge (2025):** Pending
 
 **💻 Core Stack**
