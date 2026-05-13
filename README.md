@@ -3,12 +3,13 @@
 AI Engineer & M.S. Machine Learning student working on agentic systems.
 
 **🚀 Work & Experience**
-* **Faradium AI (Founder):** Engineering secure kernel-level sandboxing for AI Agents using **Firecracker microVMs**.
-* **Click Clarity (Co-founder):** Integrated **Vertex AI** to cut reporting turnaround from hours to under a minute.
+* **Faradium AI (Creator & Systems Architect):** Engineering secure kernel-level sandboxing for AI Agents using **Firecracker microVMs**.
+* **Click Clarity (Co-founder & Lead Engineer):** Integrated **Vertex AI** to cut reporting turnaround from hours to under a minute.
 * **Atomic Links (Software Engineer):** Engineered a full-stack web MVP (React, TypeScript, Java Spring) alongside ex-Revolut engineers.
 * **Sunny Friday Games (Independent Developer):** Bootstrapped and published C#/Unity mobile games to 90,000+ organic downloads.
 
 **🔬 Research**
+* **Enhancing Context Retrieval for LLM Coding Agents with Semantic Code Graphs** *(Submitted: PPAM 2026)*
 * **Token-Efficient LLM Code Comprehension with Semantic Code Graphs** *(Accepted: PP-RAI 2026)*
 
 **🏆 Hackathons**
